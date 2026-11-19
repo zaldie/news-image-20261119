@@ -1,4 +1,4 @@
-// News image entry for Wednesday 18 November 2026 (Node 22, standard library
+// News image entry for Thursday 19 November 2026 (Node 22, standard library
 // only). The entry image lives beside this file as entry.png; the program
 // copies it to the output directory as entry.png. A plain copy is byte-exact
 // and deterministic: two runs write the same bytes, with no network, so the
